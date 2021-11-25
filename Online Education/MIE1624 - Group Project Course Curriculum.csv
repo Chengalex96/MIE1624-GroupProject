@@ -1,0 +1,971 @@
+﻿Coursera,Course Name,Company,Course Description,Topics,Skills
+,Introduction to Data Science Specialization,IBM,"Interested in learning more about data science, but don’t know where to start? This 4-course Specialization from IBM will provide you with the key foundational skills any data scientist needs to prepare you for a career in data science or further advanced learning in the field. Interested in learning more about data science, but don’t know where to start? This 4-course Specialization from IBM will provide you with the key foundational skills any data scientist needs to prepare you for a career in data science or further advanced learning in the field.  
+
+This Specialization will introduce you to what data science is and what data scientists do. You’ll discover the applicability of data science across fields, and learn how data analysis can help you make data driven decisions. You’ll find that you can kickstart your career path in the field without prior knowledge of computer science or programming languages: this Specialization will give you the foundation you need for more advanced learning to support your career goals.
+
+You’ll grasp concepts like big data, statistical analysis, and relational databases, and gain familiarity with various open source tools and data science programs used by data scientists, like Jupyter Notebooks, RStudio, GitHub, and SQL. You'll complete hands-on labs and projects to learn the methodology involved in tackling data science problems and apply your newly acquired skills and knowledge to real world data sets.","Describe what data science and machine learning are, their applications & use cases, and various types of tasks performed by data scientists  
+
+Gain hands-on familiarity with common data science tools including JupyterLab, R Studio, GitHub and Watson Studio 
+
+Develop the mindset to work like a data scientist, and follow a methodology to tackle different types of data science problems
+
+Write SQL statements and query Cloud databases using Python from Jupyter notebooks
+","Data Science
+Relational Database Management System (RDBMS)
+Cloud Databases
+Python Programming
+SQL
+Deep Learning
+Machine Learning
+Big Data
+Data Mining
+Github
+Jupyter notebooks
+Rstudio"
+,Introduction to Data Science in Python,University of Michigan,"This course will introduce the learner to the basics of the python programming environment, including fundamental python programming techniques such as lambdas, reading and manipulating csv files, and the numpy library. The course will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the Series and DataFrame as the central data structures for data analysis, along with tutorials on how to use functions such as groupby, merge, and pivot tables effectively. By the end of this course, students will be able to take tabular data, clean it, manipulate it, and run basic inferential statistical analyses. 
+
+This course should be taken before any of the other Applied Data Science with Python courses: Applied Plotting, Charting & Data Representation in Python, Applied Machine Learning in Python, Applied Text Mining in Python, Applied Social Network Analysis in Python.","Understand techniques such as lambdas and manipulating csv files
+
+Describe common Python functionality and features used for data science
+
+Query DataFrame structures for cleaning and processing
+
+Explain distributions, sampling, and t-tests","Python Programming
+Numpy
+Pandas
+Data Cleansing"
+,Introduction to Data Analytics,IBM,"This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.  You will then learn the soft skills that are required to effectively communicate your data to stakeholders, and how mastering these skills can give you the option to become a data driven decision maker.
+
+This course will help you to differentiate between the roles of a Data Analyst, Data Scientist, and Data Engineer. You will learn the responsibilities of a Data Analyst and exactly what data analysis entails. You will be able to summarize the data ecosystem, such as databases and data warehouses. You will then uncover the major vendors within the data ecosystem and explore the various tools on-premise and in the cloud. Continue this exciting journey and discover Big Data platforms such as Hadoop, Hive, and Spark. By the end of this course you will be able to visualize the daily life of a Data Analyst, understand the different career paths that are available for data analytics, and identify the many resources available for mastering this profession.
+
+     Throughout this course you will learn the key aspects to data analysis. You will begin to explore the fundamentals of gathering data, and learning how to identify your data sources. You will then learn how to clean, analyze, and share your data with the use of visualizations and dashboard tools. This all comes together in the final project where it will test your knowledge of the course material, explore what it means to be a Data Analyst, and provide a real-world scenario of data analysis. 
+
+     This course does not require any prior data analysis, spreadsheet, or computer science experience. All you need to get started is basic computer literacy, high school level math, and access to a modern web browser such as Chrome or Firefox.",,"Data Science
+Spreadsheet
+Data Analysis
+Microsoft Excel"
+,Applied Data Science with Python Specialization,University of Michigan,"The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data.
+
+Introduction to Data Science in Python (course 1), Applied Plotting, Charting & Data Representation in Python (course 2), and Applied Machine Learning in Python (course 3) should be taken in order and prior to any other course in the specialization.  After completing those, courses 4 and 5 can be taken in any order.  All 5 are required to earn a certificate.","Conduct an inferential statistical analysis
+
+Discern whether a data visualization is good or bad
+
+Enhance a data analysis with applied machine learning
+
+Analyze the connectivity of a social network","Text Mining
+Python Programming
+Pandas
+Matplotlib
+Numpy
+Data Cleansing
+Data Virtualization
+Data Visualization (DataViz)
+Machine Learning (ML) Algorithms
+Machine Learning
+Scikit-Learn
+Natural Language Toolkit (NLTK)"
+,Data Analysis Using Python,University of Pennsylvania,"This course provides an introduction to basic data science techniques using Python.  Students are introduced to core concepts like Data Frames and joining data, and learn how to use data analysis libraries like pandas, numpy, and matplotlib.  This course provides an overview of loading, inspecting, and querying real-world data, and how to answer basic questions about that data.  Students will gain skills in data aggregation and summarization, as well as basic data visualization.","Apply basic data science techniques using Python
+
+Understand and apply core concepts like Data Frames and joining data, and use data analysis libraries like pandas, numpy, and matplotlib
+
+Demonstrate how to load, inspect, and query real-world data, and answer basic questions about that data
+
+Analyze data further by applying learned skills in data aggregation and summarization, as well as basic data visualization","Data Science
+Python Libraries
+Python Programming
+Data Analysis
+Data Visualization (DataViz)"
+,Data Science as a Field,University of Colorado Boulder,"This course provides a general introduction to the field of Data Science. It has been designed for aspiring data scientists, content experts who work with data scientists, or anyone interested in learning about what Data Science is and what it’s used for. Weekly topics include an overview of the skills needed to be a data scientist; the process and pitfalls involved in data science; and the practice of data science in the professional and academic world. This course is part of CU Boulder’s Master’s of Science in Data Science and was collaboratively designed by both academics and industry professionals to provide learners with an insider’s perspective on this exciting, evolving, and increasingly vital discipline.
+
+Data Science as a Field can be taken for academic credit as part of CU Boulder’s Master of Science in Data Science (MS-DS) degree offered on the Coursera platform. The MS-DS is an interdisciplinary degree that brings together faculty from CU Boulder’s departments of Applied Mathematics, Computer Science, Information Science, and others. With performance-based admissions and no application process, the MS-DS is ideal for individuals with a broad range of undergraduate education and/or professional experience in computer science, information science, mathematics, and statistics. Learn more about the MS-DS program at https://www.coursera.org/degrees/master-of-science-data-science-boulder.","By taking this course, you will be able explain what data science is and identify the key disciplines involved.​
+
+You will be able to use the steps of the data science process to create a reproducible data analysis and identify personal biases.​
+
+You will be able to identify interesting data science applications, locate jobs in Data Science, and begin developing a professional network.​","Data Science
+Applied Mathematics
+Information Science
+Statistics
+Computer Science"
+,Introduction to Data Science and scikit-learn in Python,Learn Quest,"This course will teach you how to leverage the power of Python and artificial intelligence to create and test hypothesis. We'll start for the ground up, learning some basic Python for data science before diving into some of its richer applications to test our created hypothesis. We'll learn some of the most important libraries for exploratory data analysis (EDA) and machine learning such as Numpy, Pandas, and Sci-kit learn. After learning some of the theory (and math) behind linear regression, we'll go through and full pipeline of reading data, cleaning it, and applying a regression model to estimate the progression of diabetes. By the end of the course, you'll apply a classification model to predict the presence/absence of heart disease from a patient's health data.","Employ artificial intelligence techniques to test hypothesis in Python
+
+Apply a machine learning model combining Numpy, Pandas, and Scikit-Learn","Data Science
+Machine Learning
+regression
+Statistical Hypothesis Testing
+medical data"
+,Applied Data Science Specialization,IBM,"This action-packed Specialization is for data science enthusiasts who want to acquire practical skills for real world data problems. If you’re interested in pursuing a career in data science, and already have foundational skills or have completed the Introduction to Data Science Specialization, this program is for you!  
+
+This 4-course Specialization will give you the tools you need to analyze data and make data driven business decisions leveraging computer science and statistical analysis. You will learn Python–no prior programming knowledge necessary–and discover methods of data analysis and data visualization. You’ll utilize tools used by real data scientists like Numpy and Pandas, practice predictive modeling and model selection, and learn how to tell a compelling story with data to drive decision making.
+
+Through guided lectures, labs, and projects in the IBM Cloud, you’ll get hands-on experience tackling interesting data problems from start to finish. Take this Specialization to solidify your Python and data science skills before diving deeper into big data, AI, and deep learning.
+
+In addition to earning a Specialization completion certificate from Coursera, you’ll also receive a digital badge from IBM recognizing you as a specialist in applied data science.","Develop an understanding of Python fundamentals
+
+Gain practical Python skills and apply them to data analysis
+
+Communicate data insights effectively through data visualizations
+
+Create a project demonstrating your understanding of applied data science techniques and tools","Data Science
+Python Programming
+Data Analysis
+Pandas
+Numpy
+Ipython
+Predictive Modelling
+Data Visualization (DataViz)
+Model Selection
+Data Virtualization
+Plotly
+Matplotlib"
+,"Applied Plotting, Charting & Data Representation in Python",University of Michigan,"This course will introduce the learner to information visualization basics, with a focus on reporting and charting using the matplotlib library. The course will start with a design and information literacy perspective, touching on what makes a good and bad visualization, and what statistical measures translate into in terms of visualizations. The second week will focus on the technology used to make visualizations in python, matplotlib, and introduce users to best practices when creating basic charts and how to realize design decisions in the framework. The third week will be a tutorial of functionality available in matplotlib, and demonstrate a variety of basic statistical charts helping learners to identify when a particular method is good for a particular problem. The course will end with a discussion of other forms of structuring and visualizing data. 
+
+This course should be taken after Introduction to Data Science in Python and before the remainder of the Applied Data Science with Python courses: Applied Machine Learning in Python, Applied Text Mining in Python, and Applied Social Network Analysis in Python.","Describe what makes a good or bad visualization
+
+Understand best practices for creating basic charts
+
+Identify the functions that are best for particular problems
+
+Create a visualization using matplot","Python Programming
+Data Virtualization
+Data Visualization (DataViz)
+Matplotlib"
+,Applied Machine Learning in Python,University of Michigan,"This course will introduce the learner to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. The course will start with a discussion of how machine learning is different than descriptive statistics, and introduce the scikit learn toolkit through a tutorial. The issue of dimensionality of data will be discussed, and the task of clustering data, as well as evaluating those clusters, will be tackled. Supervised approaches for creating predictive models will be described, and learners will be able to apply the scikit learn predictive modelling methods while understanding process issues related to data generalizability (e.g. cross validation, overfitting). The course will end with a look at more advanced techniques, such as building ensembles, and practical limitations of predictive models. By the end of this course, students will be able to identify the difference between a supervised (classification) and unsupervised (clustering) technique, identify which technique they need to apply for a particular dataset and need, engineer features to meet that need, and write python code to carry out an analysis. 
+
+This course should be taken after Introduction to Data Science in Python and Applied Plotting, Charting & Data Representation in Python and before Applied Text Mining in Python and Applied Social Analysis in Python.","Describe how machine learning is different than descriptive statistics
+
+Create and evaluate data clusters
+
+Explain different approaches for creating predictive models
+
+Build features that meet analysis needs","Python Programming
+Machine Learning (ML) Algorithms
+Machine Learning
+Scikit-Learn"
+,Data Science and Analysis Tools - from Jupyter to R Markdown Specialization,Codio,"This specialization is intended for people without programming experience who seek an approachable introduction to data science that uses Python and R to describe and visualize data sets. This course will equip learners with foundational knowledge of data analysis suitable for any analyst roles. In these four courses, you will cover everything from data wrangling to data visualization. These topics will help prepare you to handle various types of data sets, giving you enough knowledge of data science to proficiently compare data sets, describe their relationship, and produce visualizations that highlight that relationship.","Describe a numerical data set with statistics
+
+Import and describe a mixed data set using pandas and matplotlib
+
+Determine if populations are different using statistical tests
+
+Describe relationships between variables using statistical tests","Python Programming
+R Programming
+Data Analysis
+Data Visualization (DataViz)
+Rstudio
+Functions
+Variables
+Basic Descriptive Statistics
+Data Science
+Visual Communication
+Histogram
+Bar Chart"
+,Applied Text Mining in Python,University of Michigan,"This course will introduce the learner to text mining and text manipulation basics. The course begins with an understanding of how text is handled by python, the structure of text both to the machine and to humans, and an overview of the nltk framework for manipulating text. The second week focuses on common manipulation needs, including regular expressions (searching for text), cleaning text, and preparing text for use by machine learning processes. The third week will apply basic natural language processing methods to text, and demonstrate how text classification is accomplished. The final week will explore more advanced methods for detecting the topics in documents and grouping them by similarity (topic modelling). 
+
+This course should be taken after: Introduction to Data Science in Python, Applied Plotting, Charting & Data Representation in Python, and Applied Machine Learning in Python.","Understand how text is handled in Python
+
+Apply basic natural language processing methods
+
+Write code that groups documents by topic
+
+Describe the nltk framework for manipulating text","Natural Language Toolkit (NLTK)
+Text Mining
+Python Programming
+Natural Language Processing"
+,Data Science Fundamentals for Data Analysts,Databricks,"In this course we're going to guide you through the fundamental building blocks of data science, one of the fastest-growing fields in the world! 
+
+With the help of our industry-leading data scientists, we’ve designed this course to build ready-to-apply data science skills in just 15 hours of learning. First, we’ll give you a quick introduction to data science - what it is and how it is used to solve real-world problems. For the rest of the course, we'll teach you the skills you need to apply foundational data science concepts and techniques to solve these real-world problems. 
+
+By the end of this course, you'll be able to leverage your existing data analysis skills to design, execute, assess, and communicate the results of your very own data science projects.","Apply foundational data science concepts and techniques to solve these real-world problems. 
+
+Design, execute, assess, and communicate the results of your very own data science projects.","Data Science
+Data Analysis
+Machine Learning"
+,Python Project for Data Science,IBM,"This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
+
+This course is part of the IBM Data Science Professional Certificate and the IBM Data Analytics Professional Certificate.
+
+PRE-REQUISITE: **Python for Data Science, AI and Development** course from IBM is a pre-requisite for this project course. Please ensure that before taking this course you have either completed the Python for Data Science, AI and Development course from IBM or have equivalent proficiency in working with Python and data.
+
+NOTE: This course is not intended to teach you Python and does not have too much instructional content. It is intended for you to apply prior Python knowledge.","Demonstrate your Skills in Python - the language of choice for Data Science and Data Analysis
+
+Apply Python fundamentals, Python data structures, and working with data in Python
+
+Play the role of a Data Scientist / Data Anlayst working on a real project
+
+Build a dashboard using Python and popular Python libraries using Jupyter notebook","Data Science
+Python Programming
+Ipython
+Data Analysis
+Pandas"
+,Spatial Data Science and Applications,Yonsei University,"Spatial (map) is considered as a core infrastructure of modern IT world, which is substantiated by business transactions of major IT companies such as Apple, Google, Microsoft, Amazon, Intel, and Uber, and even motor companies such as Audi, BMW, and Mercedes. Consequently, they are bound to hire more and more spatial data scientists.  Based on such business trend, this course is designed to present a firm understanding of spatial data science to the learners, who would have a basic knowledge of data science and data analysis, and eventually to make their expertise differentiated from other nominal data scientists and data analysts.  Additionally, this course could make learners realize the value of spatial big data and the power of open source software's to deal with spatial data science problems.
+
+This course will start with defining spatial data science and answering why spatial is special from three different perspectives - business, technology, and data in the first week.  In the second week, four disciplines related to spatial data science - GIS, DBMS, Data Analytics, and Big Data Systems, and the related open source software's - QGIS, PostgreSQL, PostGIS, R, and Hadoop tools are introduced together.  During the third, fourth, and fifth weeks, you will learn the four disciplines one by one from the principle to applications.  In the final week, five real world problems and the corresponding solutions are presented with step-by-step procedures in environment of open source software's.","Spatial (map) is considered as a core infrastructure of modern IT world, which is substantiated by business transactions of major IT companies such as Apple, Google, Microsoft, Amazon, Intel, and Uber, and even motor companies such as Audi, BMW, and Mercedes. Consequently, they are bound to hire more and more spatial data scientists.  Based on such business trend, this course is designed to present a firm understanding of spatial data science to the learners, who would have a basic knowledge of data science and data analysis, and eventually to make their expertise differentiated from other nominal data scientists and data analysts.  Additionally, this course could make learners realize the value of spatial big data and the power of open source software's to deal with spatial data science problems.
+
+This course will start with defining spatial data science and answering why spatial is special from three different perspectives - business, technology, and data in the first week.  In the second week, four disciplines related to spatial data science - GIS, DBMS, Data Analytics, and Big Data Systems, and the related open source software's - QGIS, PostgreSQL, PostGIS, R, and Hadoop tools are introduced together.  During the third, fourth, and fifth weeks, you will learn the four disciplines one by one from the principle to applications.  In the final week, five real world problems and the corresponding solutions are presented with step-by-step procedures in environment of open source software's.","Spatial Analysis
+Qgis
+Big Data
+Geographic Information System (GIS)"
+,Hands-on Foundations for Data Science and Machine Learning with Google Cloud Labs Specialization,Google Cloud Training  ,"In this Google Cloud Labs Specialization, you'll receive hands-on experience building and practicing skills in BigQuery and Cloud Data Fusion. You will start learning the basics of BigQuery, building and optimizing warehouses, and then get hands-on practice on the more advanced data integration features available in Cloud Data Fusion. 
+
+Learning will take place leveraging Google Cloud's Qwiklab platform where you will have the virtual environment and resources need to complete each lab.
+
+This specialization is broken up into 4 courses comprised of a series of courses:
+
+BigQuery Basics for Data Analysts
+Building Advanced Codeless Pipelines on Cloud Data Fusion
+Data Science on Google Cloud 
+Data Science on Google Cloud: Machine Learning
+You will even be able to earn a Skills Badge in one of these lab-based courses. 
+
+Applied Learning Project
+This specialization leverages hands-on labs using our Qwiklabs platform. You can expect to gain practical hands-on experience with the concepts explained throughout each lab.
+
+Learners will be able to practice:
+
+Creating dataset partitions that will reduce cost and improve query performance. 
+Using macros in Data Fusion that introduce dynamic variables to plugin configurations so that you can specify the variable substitutions at runtime.
+Building a reusable pipeline that reads data from Cloud Storage, performs data quality checks, and writes to Cloud Storage.
+Using Google Cloud Machine Learning and TensorFlow to develop and evaluate prediction models using machine learning.
+Implementing logistic regression using a machine learning library for Apache Spark running on a Google Cloud Dataproc cluster to develop a model for data from a multivariable dataset.
+And much more!","and practice all aspects of ingestion, preparation, processing, querying, exploring and visualizing data sets using Google Cloud tools.","Bigquery
+Data Analysis
+data
+SQL
+Data Management
+Data Pipelines
+Cloud Data Fusion
+Data ingestion
+Data Processing
+Data Visualization (DataViz)
+Tensorflow
+Machine Learning"
+,Survey Data Collection and Analytics Specialization,Univeristy of Michigan,"This specialization covers the fundamentals of surveys as used in market research, evaluation research, social science and political research, official government statistics, and many other topic domains. In six courses, you will learn the basics of questionnaire design, data collection methods, sampling design, dealing with missing values, making estimates, combining data from different sources, and the analysis of survey data. In the final Capstone Project, you’ll apply the skills learned throughout the specialization by analyzing and comparing multiple data sources.
+
+Faculty for this specialisation comes from the Michigan Program in Survey Methodology and the Joint Program in Survey Methodology, a collaboration between the University of Maryland, the University of Michigan, and the data collection firm Westat, founded by the National Science Foundation and the Interagency Consortium of Statistical Policy in the U.S.  to educate the next generation of survey researchers, survey statisticians, and survey methodologists. In addition to this specialization we offer short courses, a summer school, certificates, master degrees as well as PhD programs. ",,"Data Collection
+Cluster Sampling
+R Programming
+Missing Data
+Data Quality
+Data Analysis
+Data Generating Process"
+,Text Mining and Analytics,Illinois,"This course will cover the major techniques for mining and analyzing text data to discover interesting patterns, extract useful knowledge, and support decision making, with an emphasis on statistical approaches that can be generally applied to arbitrary text data in any natural language with no or minimum human effort. 
+
+Detailed analysis of text data requires understanding of natural language text, which is known to be a difficult task for computers. However, a number of statistical approaches have been shown to work well for the ""shallow"" but robust analysis of text data for pattern finding and knowledge discovery. You will learn the basic concepts, principles, and major algorithms in text mining and their potential applications.",,"Data Clustering Algorithms
+Text Mining
+Probabilistic Models
+Sentiment Analysis"
+,Predictive Modeling and Analytics,University of Colorado Boulder,"Welcome to the second course in the Data Analytics for Business specialization! 
+
+This course will introduce you to some of the most widely used predictive modeling techniques and their core principles. By taking this course, you will form a solid foundation of predictive analytics, which refers to tools and techniques for building statistical or machine learning models to make predictions based on data. You will learn how to carry out exploratory data analysis to gain insights and prepare data for predictive modeling, an essential skill valued in the business. 
+
+You’ll also learn how to summarize and visualize datasets using plots so that you can present your results in a compelling and meaningful way. We will use a practical predictive modeling software, XLMiner, which is a popular Excel plug-in. This course is designed for anyone who is interested in using data to gain insights and make better business decisions. The techniques discussed are applied in all functional areas within business organizations including accounting, finance, human resource management, marketing, operations, and strategic planning. 
+
+The expected prerequisites for this course include a prior working knowledge of Excel, introductory level algebra, and basic statistics.",,"Regression Analysis
+Data Cleansing
+Predictive Modelling
+Exploratory Data Analysis"
+,"Intro to Analytic Thinking, Data Science, and Data Mining",University of California,"Welcome to Introduction to Analytic Thinking, Data Science, and Data Mining. In this course, we will begin with an exploration of the field and profession of data science with a focus on the skills and ethical considerations required when working with data. We will review the types of business problems data science can solve and discuss the application of the CRISP-DM process to data mining efforts. A brief overview of Descriptive, Predictive, and Prescriptive Analytics will be provided, and we will conclude the course with an exploratory activity to learn more about the tools and resources you might find in a data science toolkit.","The knowledge and skills needed to work in the data science profession
+
+How data science is used to solve business problems
+
+The benefits of using the cross-industry standard process for data mining (CRISP-DM)","Environmental Data Analysis
+Data Documentation
+Geophysical Data
+Data Mining"
+,Practical Predictive Analytics: Models and Methods,University of Washington,"Statistical experiment design and analytics are at the heart of data science.  In this course you will design statistical experiments and analyze the results using modern methods.  You will also explore the common pitfalls in interpreting statistical arguments, especially those associated with big data.  Collectively, this course will help you internalize a core set of practical and effective machine learning methods and concepts, and apply them to solve some real world problems.","Learning Goals: After completing this course, you will be able to:
+1. Design effective experiments and analyze the results
+2. Use resampling methods to make clear and bulletproof statistical arguments without invoking esoteric notation
+3. Explain and apply a core set of classification methods of increasing complexity (rules, trees, random forests), and associated optimization methods (gradient descent and variants)
+4. Explain and apply a set of unsupervised learning concepts and methods
+5. Describe the common idioms of large-scale graph analytics, including structural query, traversals and recursive queries, PageRank, and community detection","Random Forest
+Predictive Analytics
+Machine Learning
+R Programming"
+,Data Science Fundamentals with Python and SQL Specialization,IBM,"Data Science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Specialization from IBM will help anyone interested in pursuing a career in data science by teaching them fundamental skills to get started in this in-demand field.
+
+The specialization consists of 5 self-paced online courses that will provide you with the foundational skills required for Data Science, including open source tools and libraries, Python, Statistical Analysis, SQL, and relational databases. You’ll learn these data science pre-requisites through hands-on practice using real data science tools and real-world data sets.
+
+Upon successfully completing these courses, you will have the practical knowledge and experience to delve deeper in Data Science and work on more advanced Data Science projects. 
+
+
+No prior knowledge of computer science or programming languages required. ","Working knowledge of Data Science Tools such as Jupyter Notebooks, R Studio, GitHub, Watson Studio
+
+Python programming basics including data structures, logic, working with files, invoking APIs, and libraries such as Pandas and Numpy
+
+Statistical Analysis techniques including  Descriptive Statistics, Data Visualization, Probability Distribution, Hypothesis Testing and Regression
+
+Relational Database fundamentals including SQL query language, Select statements, sorting & filtering, database functions, accessing multiple tables","Data Science
+Github
+Python Programming
+Jupyter notebooks
+Rstudio
+Data Analysis
+Pandas
+Numpy
+Ipython
+Probability And Statistics
+Regression Analysis
+Data Visualization (DataViz)"
+,Accounting Data Analytics Specialization,Illinois,"This specialization develops learners’ analytics mindset and knowledge of data analytics tools and techniques. Specifically, this specialization develops learners' analytics skills by first introducing an analytic mindset, data preparation, visualization, and analysis using Excel. Next, this specialization develops learners' skills of using Python for data preparation, data visualization, data analysis, and data interpretation and the ability to apply these skills to issues relevant to accounting. This specialization also develops learners’ skills in machine learning algorithms (using Python), including classification, regression, clustering, text analysis, time series analysis, and model optimization, as well as their ability to apply these machine learning skills to real-world problems.","Know how to operate software that will help you create and run Python code.
+
+Execute Python code for wrangling data from different structures into a Pandas dataframe structure.
+
+Run and interpret fundamental data analytic tasks in Python including descriptive statistics, data visualizations, and regression.
+
+Use relational databases and know how to manipulate such databases directly through the command line, and indirectly through a Python script.","Machine Learning
+Python Programming
+Data Visualization (DataViz)
+Data Preparation
+Exploratory Data Analysis
+Data Analysis
+Predictive Analytics
+Data Architecture
+coding
+Linear Regression
+SQL
+Text Analysis"
+,A Crash Course in Data Science,John Hopkins University,"By now you have definitely heard about data science and big data. In this one-week class, we will provide a crash course in what these terms mean and how they play a role in successful organizations. This class is for anyone who wants to learn what all the data science action is about, including those who will eventually need to manage data scientists. The goal is to get you up to speed as quickly as possible on data science without all the fluff. We've designed this course to be as convenient as possible without sacrificing any of the essentials.
+
+This is a focused course designed to rapidly get you up to speed on the field of data science. Our goal was to make this as convenient as possible for you without sacrificing any essential content. We've left the technical information aside so that you can focus on managing your team and moving it forward.","1. How to describe the role data science plays in various contexts
+2. How statistics, machine learning, and software engineering play a role in data science
+3. How to describe the structure of a data science project
+4. Know the key terms and tools used by data scientists
+5. How to identify a successful and an unsuccessful data science project
+3. The role of a data science manager","Data Science
+Data Analysis
+Machine Learning
+Project"
+,Vital Skills for Data Science Specialization,University of Colorado Boulder,"Vital Skills for Data Science introduces students to several areas that every data scientist should be familiar with.  Each of the topics is a field in itself.  This specialization provides a ""taste"" of each of these areas which will allow the student to determine if any of these areas is something they want to explore further. In this specialization, students will learn about different applications of data science and how to apply the steps in a data science process to real life data.  They will be introduced to the ethical questions every data scientist should be aware of when doing an analysis.  The field of cybersecurity makes the data scientist aware of how to protect their data from loss.
+
+This specialization can be taken for academic credit as part of CU Boulder’s Master of Science in Data Science (MS-DS) degree offered on the Coursera platform. The MS-DS is an interdisciplinary degree that brings together faculty from CU Boulder’s departments of Applied Mathematics, Computer Science, Information Science, and others. With performance-based admissions and no application process, the MS-DS is ideal for individuals with a broad range of undergraduate education and/or professional experience in computer science, information science, mathematics, and statistics. Learn more about the MS-DS program at https://www.coursera.org/degrees/master-of-science-data-science-boulder. ","Identify applications of Data Science.
+
+Identify the steps of the Data Science process and apply them with real world data.
+
+Discuss privacy concerns.
+
+By taking this course, you will be able explain what data science is and identify the key disciplines involved.​","Information Privacy
+Cybersecurity
+analysis
+Ethics
+Data Science
+Applied Mathematics
+Information Science
+Statistics
+Computer Science
+Algorithms
+Privacy
+Philosophy"
+,Introduction to Portfolio Construction and Analysis with Python,EDHEC,"The practice of investment management has been transformed in recent years by computational methods. This course provides an introduction to the underlying science, with the aim of giving you a thorough understanding of that scientific basis. However, instead of merely explaining the science, we help you build on that foundation in a practical manner, with an emphasis on the hands-on implementation of those ideas in the Python programming language. 
+
+This course is the first in a four course specialization in Data Science and Machine Learning in Asset Management but can be taken independently. In this course, we cover the basics of Investment Science, and we'll build practical implementations of each of the concepts along the way. We'll start with the very basics of risk and return and quickly progress to cover a range of topics including several Nobel Prize winning concepts. We'll cover some of the most popular practical techniques in modern, state of the art investment management and portfolio construction. 
+
+As we cover the theory and math in lecture videos, we'll also implement the concepts in Python, and you'll be able to code along with us so that you have a deep and practical understanding of how those methods work. By the time you are done, not only will you have a foundational understanding of modern computational methods in investment management, you'll have practical mastery in the implementation of those methods.","Gain an intuitive understanding for the underlying theory behind Modern Portfolio Construction Techniques  
+
+Write custom  Python code to estimate risk and return parameters  
+
+Utilize powerful Python optimization libraries to build scientifically and systematically diversified portfolios  
+
+Build custom utilities in Python to test and compare portfolio strategies  ",
+,Python and Machine-Learning for Asset Management with Alternative Data Sets,EDHEC,"Over-utilization of market and accounting data over the last few decades has led to portfolio crowding, mediocre performance and systemic risks, incentivizing financial institutions which are looking for an edge to quickly adopt alternative data as a substitute to traditional data. This course introduces the core concepts around alternative data, the most recent research in this area, as well as practical portfolio examples and actual applications. The approach of this course is somewhat unique because while the theory covered is still a main component, practical lab sessions and examples of working with alternative datasets are also key. This course is fo you if you are aiming at carreers prospects as a data scientist in financial markets, are looking to enhance your analytics skillsets to the financial markets, or if you are interested in cutting-edge technology and research as  they apply to big data. The required background is: Python programming, Investment theory , and Statistics. This course will enable you to learn new data and research techniques applied to the financial markets while strengthening data science and python skills.","Learn what alternative data is and how it is used in financial market applications. 
+
+Become immersed in current academic and practitioner state-of-the-art research pertaining to alternative data applications.
+
+Perform data analysis of real-world alternative datasets using Python.
+
+Gain an understanding and hands-on experience in data analytics, visualization and quantitative modeling applied to alternative data in finance","Advanced vizualisation
+Basics of consuption-based alternative data
+Text mining methodologies
+Web-scritpting tools"
+,Data Science Fundamentals Specialization,University of California,"This specialization demystifies data science and familiarizes learners with key data science skills, techniques, and concepts. The course begins with foundational concepts such as analytics taxonomy, the Cross-Industry Standard Process for Data Mining, and data diagnostics, and then moves on to compare data science with classical statistical techniques. The course also provides an overview of the most common techniques used in data science, including data analysis, statistical modeling, data engineering, manipulation of data at scale (big data), algorithms for data mining, data quality, remediation and consistency operations.","The knowledge and skills needed to work in the data science profession
+
+How data science is used to solve business problems
+
+The benefits of using the cross-industry standard process for data mining (CRISP-DM)
+
+The application of predictive modeling to professional and academic work","Environmental Data Analysis
+Data Documentation
+Geophysical Data
+Data Mining"
+,Data Processing and Feature Engineering with MATLAB,MathWorks,"In this course, you will build on the skills learned in Exploratory Data Analysis with MATLAB to lay the foundation required for predictive modeling.  This intermediate-level course is useful to anyone who needs to combine data from multiple sources or times and has an interest in modeling.  
+
+These skills are valuable for those who have domain knowledge and some exposure to computational tools, but no programming background. To be successful in this course, you should have some background in basic statistics (histograms, averages, standard deviation, curve fitting, interpolation) and have completed Exploratory Data Analysis with MATLAB. 
+
+Throughout the course, you will merge data from different data sets and handle common scenarios, such as missing data.  In the last module of the course, you will explore special techniques for handling textual, audio, and image data, which are common in data science and more advanced modeling.   By the end of this course, you will learn how to visualize your data, clean it up and arrange it for analysis, and identify the qualities necessary to answer your questions.  You will be able to visualize the distribution of your data and use visual inspection to address artifacts that affect accurate modeling.",,"Feature Engineering
+Matlab
+Data Cleansing"
+,Data Mining Specialization,Illinois,"The Data Mining Specialization teaches data mining techniques for both structured data which conform to a clearly defined schema, and unstructured data which exist in the form of natural language text. Specific course topics include pattern discovery, clustering, text retrieval, text mining and analytics, and data visualization. The Capstone project task is to solve real-world data mining challenges using a restaurant review data set from Yelp.
+
+Courses 2 - 5 of this Specialization form the lecture component of courses in the online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.",,"Data Clustering Algorithms
+Text Mining
+Data Visualization (DataViz)
+Data Mining
+Data Visualization Software
+Tableau Software
+Data Virtualization
+Information Retrieval (IR)
+Document Retrieval
+Machine Learning
+Recommender Systems
+Probabilistic Models"
+,Natural Language Processing in Microsoft Azure,Microsoft,"Natural language processing supports applications that can see, hear, speak with, and understand users. Using text analytics, translation, and language understanding services, Microsoft Azure makes it easy to build applications that support natural language.
+
+In this course, you will learn how to use the Text Analytics service for advanced natural language processing of raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection. You will learn how to recognize and synthesize speech by using Azure Cognitive Services. You will gain an understanding of how automated translation capabilities in an AI solution enable closer collaboration by removing language barriers. You will be introduced to the Language Understanding service, and shown how to create applications that understand language.
+
+This course will help you prepare for Exam AI-900: Microsoft Azure AI Fundamentals. This is the fourth course in a five-course program that prepares you to take the AI-900 certification exam. This course teaches you the core concepts and skills that are assessed in the AI fundamentals exam domains.  
+
+This beginner course is suitable for IT personnel who are just beginning to work with Microsoft Azure and want to learn about Microsoft Azure offerings and get hands-on experience with the product. Microsoft Azure AI Fundamentals can be used to prepare for other Azure role-based certifications like Microsoft Azure Data Scientist Associate or Microsoft Azure AI Engineer Associate, but it is not a prerequisite for any of them.
+
+This course is intended for candidates with both technical and non-technical backgrounds. Data science and software engineering experience is not required; however, some general programming knowledge or experience would be beneficial.  To be successful in this course, you need to have basic computer literacy and proficiency in the English language. You should be familiar with basic computing concepts and terminology,  general technology concepts, including machine learning and artificial intelligence concepts.","Identify features of common NLP Workload Scenarios
+Identify Azure tools and services for NLP workloads
+Describe features of Natural Language Processing (NLP) workloads on Azure",
+,Basic Data Processing and Visualization,UC San Diego,"This is the first course in the four-course specialization Python Data Products for Predictive Analytics, introducing the basics of reading and manipulating datasets in Python. In this course, you will learn what a data product is and go through several Python libraries to perform data retrieval, processing, and visualization. 
+
+This course will introduce you to the field of data science and prepare you for the next three courses in the Specialization: Design Thinking and Predictive Analytics for Data Products, Meaningful Predictive Modeling, and Deploying Machine Learning Models. At each step in the specialization, you will gain hands-on experience in data manipulation and building your skills, eventually culminating in a capstone project encompassing all the concepts taught in the specialization.","Develop data strategy and process for how data will be generated, collected, and consumed
+
+Load and process formatted datasets such as CSV and JSON.
+
+Deal with data in various formats (e.g. timestamps, strings) and filter and “clean” datasets by removing outliers etc.
+
+Basic experience with data processing libraries such as numpy and data ingestion with urllib, requests","Python Libraries
+Data Pre-Processing
+Data Visualization (DataViz)
+Web Scraping"
+,IBM Data Analytics with Excel and R Professional Certificate,IBM,"This Professional Certificate is intended for anyone who is seeking to develop the job-ready skills, tools, and portfolio for an entry-level data analyst or data scientist position. Through these eight online courses, you will dive into the role of a data analyst or data scientist and develop the essential skills you need work with a range of data sources and apply powerful tools, including Excel, Cognos Analytics, and the R programming language, towards becoming a data driven practitioner, and gaining a competitive edge in the job market.
+
+By the end of this Professional Certificate, you will be able to explain the data analyst and data scientist roles. You will work with Excel spreadsheets and utilize them for data analysis to create charts and plots. You will utilize Cognos Analytics to create interactive dashboards. You will work with relational databases and query data using SQL statements. You will use the R programming language to complete the entire data analysis process - including data preparation, statistical analysis, data visualization, predictive modeling, and creating interactive data applications. You will also communicate your data findings and learn to prepare a report for stakeholders.
+
+This program is suitable for anyone with a passion for learning and does not require any prior data analysis, statistics, or programming experience.","Utilize Excel spreadsheets to perform a variety of data analysis tasks like data wrangling, using pivot tables, data mining, & creating charts
+
+Complete the data analysis process, including data preparation, statistical analysis,  predictive modeling, using R, R Studio, and Jupyter
+
+Create relational databases and tables, query data, sort, filter and aggregate result sets using SQL and R from JupyterLab
+
+Communicate your data findings using various data visualization techniques including, charts, plots & interactive dashboards with Cognos and R Shiny","Excel data preparation and visualization
+Data Analytics and Modelling
+R programming fundamentals
+Cognos Analytics dashboards
+SQL and RDBMS
+Data Science
+Spreadsheet
+Data Analysis
+Microsoft Excel
+Pivot Table
+Data Visualization (DataViz)
+IBM Cognos Analytics"
+,Data Science: Statistics and Machine Learning Specialization,John Hopkins University,"Build models, make inferences, and deliver interactive data products.
+This specialization continues and develops on the material from the Data Science: Foundations using R specialization. It covers statistical inference, regression models, machine learning, and the development of data products. In the Capstone Project, you’ll apply the skills learned by building a data product using real-world data. At completion, learners will have a portfolio demonstrating their mastery of the material.
+
+The five courses in this specialization are the very same courses that make up the second half of the Data Science Specialization. This specialization is presented for learners who have already mastered the fundamentals and want to skip right to the more advanced courses.","Perform regression analysis, least squares and inference using regression models.
+
+Build and apply prediction functions
+
+Develop public data products
+
+Understand the process of drawing conclusions about populations or scientific truths from data","Machine Learning
+Github
+R Programming
+Regression Analysis
+Data Visualization (DataViz)
+Statistics
+Statistical Inference
+Statistical Hypothesis Testing
+Model Selection
+Generalized Linear Model
+Linear Regression
+Random Forest"
+,Python Data Products for Predictive Analytics Specialization,UC San Diego,"Python data products are powering the AI revolution. Top companies like Google, Facebook, and Netflix use predictive analytics to improve the products and services we use every day. Take your Python skills to the next level and learn to make accurate predictions with data-driven systems and deploy machine learning models with this four-course Specialization from UC San Diego.
+
+This Specialization is for learners who are proficient with the basics of Python. You’ll start by creating your first data strategy. You’ll also develop statistical models, devise data-driven workflows, and learn to make meaningful predictions for a wide-range of business and research purposes. Finally, you’ll use design thinking methodology and data science techniques to extract insights from a wide range of data sources. This is your chance to master one of the technology industry’s most in-demand skills.
+
+Python Data Products for Predictive Analytics is taught by Professor Ilkay Altintas, Ph.D. and Julian McAuley. Dr. Alintas is a prominent figure in the data science community and the designer of the highly-popular Big Data Specialization on Coursera. She has helped educate hundreds of thousands of learners on how to unlock value from massive datasets.","Discover how to transform data and make it suitable for data-driven predictive tasks 
+
+Understand how to compute basic statistics using real-world datasets of consumer activities, like product reviews and more
+
+Use Python to create interactive data visualizations to make meaningful predictions and build simple demo systems
+
+Perform simple regressions and classifications on datasets using machine learning libraries ","Machine Learning
+Python Programming
+Predictive Analytics
+Data Processing
+Data Visualization (DataViz)
+Python Libraries
+Data Pre-Processing
+Web Scraping
+Big Data Products
+Recommender Systems"
+,Introduction to Accounting Data Analytics and Visualization,Illinois,"Accounting has always been about analytical thinking. From the earliest days of the profession, Luca Pacioli emphasized the importance of math and order for analyzing business transactions. The skillset that accountants have needed to perform math and to keep order has evolved from pencil and paper, to typewriters and calculators, then to spreadsheets and accounting software. A new skillset that is becoming more important for nearly every aspect of business is that of big data analytics: analyzing large amounts of data to find actionable insights. This course is designed to help accounting students develop an analytical mindset and prepare them to use data analytic programming languages like Python and R.
+
+We’ve divided the course into three main sections. In the first section, we bridge accountancy to analytics. We identify how tasks in the five major subdomains of accounting (i.e., financial, managerial, audit, tax, and systems) have historically required an analytical mindset, and we then explore how those tasks can be  completed more effectively and efficiently by using big data analytics. We then present a FACT framework for guiding big data analytics: Frame a question, Assemble data, Calculate the data, and Tell others about the results.
+ 
+In the second section of the course, we emphasize the importance of assembling data. Using financial statement data, we explain desirable characteristics of both data and datasets that will lead to effective calculations and visualizations.
+ 
+In the third, and largest section of the course, we demonstrate and explore how Excel and Tableau can be used to analyze big data. We describe visual perception principles and then apply those principles to create effective visualizations. We then examine fundamental data analytic tools, such as regression, linear programming (using Excel Solver), and clustering in the context of point of sale data and loan data. We conclude by demonstrating the power of data analytic programming languages to assemble, visualize, and analyze data. We introduce Visual Basic for Applications  as an example of a programming language, and the Visual Basic Editor as an example of an integrated development environment (IDE).",,"Data Analysis
+Predictive Analytics
+Data Visualization (DataViz)
+Data Architecture
+coding"
+,Wearable Technologies and Sports Analytics,University of Michigan,"Sports analytics now include massive datasets from athletes and teams that quantify both training and competition efforts.  Wearable technology devices are being worn by athletes everyday and provide considerable opportunities for an in-depth look at the stress and recovery of athletes across entire seasons.  The capturing of these large datasets has led to new hypotheses and strategies regarding injury prevention as well as detailed feedback for athletes to try and optimize training and recovery.
+
+This course is an introduction to wearable technology devices and their use in training and competition as part of the larger field of sport sciences.  It includes an introduction to the physiological principles that are relevant to exercise training and sport performance and how wearable devices can be used to help characterize both training and performance.  It includes access to some large sport team datasets and uses programming in python to explore concepts related to training, recovery and performance.",,
+,Design Thinking and Predictive Analytics for Data Products,UC San Diego,"This is the second course in the four-course specialization Python Data Products for Predictive Analytics, building on the data processing covered in Course 1 and introducing the basics of designing predictive models in Python. In this course, you will understand the fundamental concepts of statistical learning and learn various methods of building predictive models. At each step in the specialization, you will gain hands-on experience in data manipulation and building your skills, eventually culminating in a capstone project encompassing all the concepts taught in the specialization.",,
+,,,,,
+EdX,Introduction to Data Science,IBM,"The art of uncovering the insights and trends in data has been around for centuries. The ancient Egyptians applied census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science and in this course, you will meet some big data science practitioners and we will get an overview of what data science is today.","Definition of data science and what data scientists do
+Tools and algorithms used on a daily basis within the field
+Skills needed to be a successful data scientist
+The role of data science within a business
+How to form a strong data science team",
+,Data Science: R Basics,HarvardX,"The first in our Professional Certificate Program in Data Science, this course will introduce you to the basics of R programming. You can better retain R when you learn it to solve a specific problem, so you'll use a real-world dataset about crime in the United States. You will learn the R skills needed to answer essential questions about differences in crime across the different states.
+
+We'll cover R's functions and data types, then tackle how to operate on vectors and when to use advanced functions like sorting. You'll learn how to apply general programming features like ""if-else,"" and ""for loop"" commands, and how to wrangle, analyze and visualize data.
+
+Rather than covering every R skill you might need, you'll build a strong foundation to prepare you for the more in-depth courses later in the series, where we cover concepts like probability, inference, regression, and machine learning. We help you develop a skill set that includes R programming, data wrangling with dplyr, data visualization with ggplot2, file organization with UNIX/Linux, version control with git and GitHub, and reproducible document preparation with RStudio.
+
+The demand for skilled data science practitioners is rapidly growing, and this series prepares you to tackle real-world data analysis challenges.","Basic R syntax
+Foundational R programming concepts such as data types, vectors arithmetic, and indexing
+How to perform operations in R including sorting, data wrangling using dplyr, and making plots",
+,Data Science: Visualization,HarvardX,"As part of our Professional Certificate Program in Data Science, this course covers the basics of data visualization and exploratory data analysis. We will use three motivating examples and ggplot2, a data visualization package for the statistical programming language R. We will start with simple datasets and then graduate to case studies about world health, economics, and infectious disease trends in the United States.
+
+We'll also be looking at how mistakes, biases, systematic errors, and other unexpected problems often lead to data that should be handled with care. The fact that it can be difficult or impossible to notice a mistake within a dataset makes data visualization particularly important.
+
+The growing availability of informative datasets and software tools has led to increased reliance on data visualizations across many areas. Data visualization provides a powerful way to communicate data-driven findings, motivate analyses, and detect flaws. This course will give you the skills you need to leverage data to reveal valuable insights and advance your career.","Data visualization principles
+How to communicate data-drivenfindings
+How to use ggplot2 to create custom plots
+The weaknesses of several widely-used plots and why you should avoid them",
+,Data Science: Probability,HarvardX,"In this course, part of our Professional Certificate Program in Data Science,you will learn valuable concepts in probability theory. The motivation for this course is the circumstances surrounding the financial crisis of 2007-2008. Part of what caused this financial crisis was that the risk of some securities sold by financial institutions was underestimated. To begin to understand this very complicated event, we need to understand the basics of probability.
+
+We will introduce important concepts such as random variables, independence, Monte Carlo simulations, expected values, standard errors, and the Central Limit Theorem. These statistical concepts are fundamental to conducting statistical tests on data and understanding whether the data you are analyzing is likely occurring due to an experimental method or to chance.
+
+Probability theory is the mathematical foundation of statistical inference which is indispensable for analyzing data affected by chance, and thus essential for data scientists.","Important concepts in probability theory including random variables and independence
+How to perform a Monte Carlo simulation
+The meaning of expected values and standard errors and how to compute them in R
+The importance of the Central Limit Theorem",
+,Data Science: Inference and Modeling,HarvardX,"Statistical inference and modeling are indispensable for analyzing data affected by chance, and thus essential for data scientists. In this course, you will learn these key concepts through a motivating case study on election forecasting.
+
+This course will show you how inference and modeling can be applied to develop the statistical approaches that make polls an effective tool and we'll show you how to do this using R. You will learn concepts necessary to define estimates and margins of errors and learn how you can use these to make predictions relatively well and also provide an estimate of the precision of your forecast.
+
+Once you learn this you will be able to understand two concepts that are ubiquitous in data science: confidence intervals, and p-values. Then, to understand statements about the probability of a candidate winning, you will learn about Bayesian modeling. Finally, at the end of the course, we will put it all together to recreate a simplified version of an election forecast model and apply it to the 2016 election.","The concepts necessary to define estimates and margins of errors of populations, parameters, estimates and standard errors in order to make predictions about data
+How to use models to aggregatedata from different sources
+The very basics of Bayesian statistics and predictive modeling",
+,Data Science: Productivity Tools,HarvardX,"A typical data analysis project may involve several parts, each including several data files and different scripts with code. Keeping all this organized can be challenging.
+
+Part of our Professional Certificate Program in Data Science, this course explains how to use Unix/Linux as a tool for managing files and directories on your computer and how to keep the file system organized. You will be introduced to the version control systems git, a powerful tool for keeping track of changes in your scripts and reports. We also introduce you to GitHub and demonstrate how you can use this service to keep your work in a repository that facilitates collaborations.
+
+Finally, you will learn to write reports in R markdown which permits you to incorporate text and code into a document. We'll put it all together using the powerful integrated desktop environment RStudio.","How to use Unix/Linux to manage your file system
+How to perform version control with git
+How to start a repository on GitHub
+How to leverage the many useful features provided by Rstudio",
+,Data Science: Wrangling,HarvardX,"In this course, part of our Professional Certificate Program in Data Science,we cover several standard steps of the data wrangling process like importing data into R, tidying data, string processing, HTML parsing, working with dates and times, and text mining. Rarely are all these wrangling steps necessary in a single analysis, but a data scientist will likely face them all at some point.
+
+Very rarely is data easily accessible in a data science project. It's more likely for the data to be in a file, a database, or extracted from documents such as web pages, tweets, or PDFs. In these cases, the first step is to import the data into R and tidy the data, using the tidyverse package. The steps that convert data from its raw form to the tidy form is called data wrangling.
+
+This process is a critical step for any data scientist. Knowing how to wrangle and clean data will enable you to make critical insights that would otherwise be hidden.","Importing data into R fromdifferent file formats
+Web scraping
+How to tidy data using the tidyverse tobetter facilitateanalysis
+String processing with regular expressions (regex)
+Wrangling data using dplyr
+How to workwith dates and times as file formats
+Text mining",
+,Data Science: Linear Regression,HarvardX,"Linear regression is commonly used to quantify the relationship between two or more variables. It is also used to adjust for confounding. This course, part ofourProfessional Certificate Program in Data Science, covers how to implement linear regression and adjust for confounding in practice using R.
+
+In data science applications, it is very common to be interested in the relationship between two or more variables. The motivating case study we examine in this course relates to the data-driven approach used to construct baseball teams described in Moneyball. We will try to determine which measured outcomes best predict baseball runs by using linear regression.
+
+We will also examine confounding, where extraneous variables affect the relationship between two or more other variables, leading to spurious associations. Linear regression is a powerful technique for removing confounders, but it is not a magical process. It is essential to understand when it is appropriate to use, and this course will teach you when to apply this technique.","How linear regression was originally developed by Galton
+What is confounding and how to detect it
+How to examine the relationships between variables by implementing linear regression in R",
+,Data Science: Machine Learning,HarvardX,"Perhaps the most popular data science methodologies come from machine learning. What distinguishes machine learning from other computer guided decision processes is that it builds prediction algorithms using data. Some of the most popular products that use machine learning include the handwriting readers implemented by the postal service, speech recognition, movie recommendation systems, and spam detectors.
+
+In this course,part ofourProfessional Certificate Program in Data Science, you will learn popular machine learning algorithms, principal component analysis, and regularization by building a movie recommendation system.
+
+You will learn about training data, and how to use a set of data to discover potentially predictive relationships. As you build the movie recommendation system, you will learn how to train algorithms using training data so you can predict the outcome for future datasets. You will also learn about overtraining and techniques to avoid it such as cross-validation. All of these skills are fundamental to machine learning.","The basics of machine learning
+How to perform cross-validation to avoid overtraining
+Several popular machine learning algorithms
+How to build a recommendation system
+What is regularization and why it is useful?",
+,Data Science: Capstone,HarvardX,"To become an expert data scientist you need practice and experience. By completing this capstone project you will get an opportunity to apply the knowledge and skills in R data analysis that you have gained throughout the series. This final project will test your skills in data visualization, probability, inference and modeling, data wrangling, data organization, regression, and machine learning.
+
+Unlike the rest of ourProfessional Certificate Program in Data Science, in this course, you will receive much less guidance from the instructors. When you complete the project you will have a data product to show off to potential employers or educational programs, a strong indicator of your expertise in the field of data science.","How to apply the knowledge base and skills learned throughout the series to a real-world problem
+How to independently work on a data analysis project",
+,Introduction to Data Science,IBM,"The art of uncovering the insights and trends in data has been around for centuries. The ancient Egyptians applied census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science and in this course, you will meet some big data science practitioners and we will get an overview of what data science is today.","Definition of data science and what data scientists do
+Tools and algorithms used on a daily basis within the field
+Skills needed to be a successful data scientist
+The role of data science within a business
+How to form a strong data science team",
+,Data Science Tools,IBM,"In this course, you'll learn about Data Science tools like Jupyter Notebooks, RStudio IDE, and Watson Studio. You will learn what each tool is used for, what programming languages they can execute, their features and limitations and how data scientists use these tools today.
+
+With the tools hosted in the cloud, you will be able to test each tool and follow instructions to run simple code in Python or R. To complete the course, you will create a final project with a Jupyter Notebook on IBM Watson Studio on Cloud and demonstrate your proficiency in preparing a notebook, writing Markdown, and sharing your work with your peers.
+
+This hands-on course will get you up and running with some of the latest and greatest data science tools.","How to use various data science and data visualization tools hosted on Skills Network Labs
+How to use Jupyter Notebooks including its features and why it's so popular
+Popular tools used by R Programmers including RStudio IDE
+IBM Watson Studio including its features and capabilities
+How to create and share a Jupyter Notebook",
+,The Data Science Method,IBM,"Despite and influx in computing power and access to data over the last couple of decades, our ability to use data within the decision-making process is either lost or not maximized all too often. We do not have a strong grasp of the questions asked and how to apply the data correctly to resolve the issues at hand.
+
+The purpose of this course is to share the methods, models and practices that can be applied within data science, to ensure that the data used in problem-solving is relevant and properly manipulated to address business and real-world challenges.
+
+You will learn how to identify a problem, collect and analyze data, build a model, and understand the feedback after model deployment.
+
+Advancing your ability to manage, decipher and analyze new and big data is vital to working in data science. By the end of this course, you will have a better understanding of the various stages and requirements of the data science method and be able to apply it to your own work.","The major steps involved in tackling a data science problem.
+Why data scientists need a methodology and an approach.
+What it means to understand data, and prepare or clean data
+How to practice data science, including forming a concrete business question or research.
+Through completing a peer-reviewed assignment, you will demonstrate your understanding of the data science methodology by applying it to a problem that you define.",
+,SQL for Data Science,IBM,"Much of the world's data lives in databases. SQL (or Structured Query Language) is a powerful programming language that is used for communicating with and extracting various data types from databases. A working knowledge of databases and SQL is necessary to advance as a data scientist or a machine learning specialist. The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.
+
+The emphasis in this course is on hands-on, practical learning. As such, you will work with real databases, real data science tools, and real-world datasets. You will create a database instance in the cloud. Through a series of hands-on labs, you will practice building and running SQL queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python.
+
+No prior knowledge of databases, SQL, Python, or programming is required.","Learn and apply foundational knowledge of the SQL language
+How to create a database in the cloud
+How to use string patterns and ranges to query data
+How to sort and group data in result sets and by data type
+How to analyze data using Python",
+,Python Basics for Data Science,IBM,"Kickstart your learning of Python for data science, as well as programming in general with this introduction to Python course. This beginner-friendly Python course will quickly take you from zero to programming in Python in a matter of hours and give you a taste of how to start working with data in Python. ~~~~
+
+Upon its completion, you'll be able to write your own Python scripts and perform basic hands-on data analysis using our Jupyter-based lab environment. If you want to learn Python from scratch, this course is for you.
+
+You can start creating your own data science projects and collaborating with other data scientists using IBM Watson Studio. When you sign up, you will receive free access to Watson Studio. Start now and take advantage of this platform and learn the basics of programming, machine learning, and data visualization with this introductory course.
+
+Coaching
+
+If you are enrolled in the verified track (paid track) in any course that is a part of a MicroBachelors program, including this course, you are eligible for coaching at no additional cost. Please note that coaching is only available via SMS to U.S. phone lines.
+
+Our coaches (real humans) are ready to help you with career exploration, navigating resources, staying motivated, and solving problems along the way to your goals.","What Python is and why it is useful
+The application of Python to Data Science
+How to define variables in Python
+Sets and conditional statements in Python
+The purpose of having functions in Python
+How to operate on files to read and write data in Python
+How to use pandas, a must have package for anyone attempting data analysis in Python.",
+,Python for Data Science Project,IBM,This mini-course is intended for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.,"In this course you will learn about:
+
+Demonstrate your skills for working with Python and Data
+Create a dashboard that shows key performance indicators from a specific data set",
+,Analyzing Data with Python,IBM,"LEARN TO ANALYZE DATA WITH PYTHON
+
+Learn how to analyze data using Python in this introductory course. You will go from understanding the basics of Python to exploring many different types of data through lecture, hands-on labs, and assignments. You will learn how to prepare data for analysis, perform simple statistical analyses, create meaningful data visualizations, predict future trends from data, and more!","How to import data sets, clean and prepare data for analysis, summarize data, and build data pipelines
+Use Pandas DataFrames, Numpy multidimensional arrays, and SciPy libraries to work with various datasets
+Load, manipulate, analyze, and visualize datasets with pandas, an open-source library
+Build machine-learning models and make predictions with scikit-learn, another open-source library
+It includes following parts:
+
+Data Analysis libraries: will learn to use Pandas DataFrames, Numpy multi-dimentional arrays, and SciPy libraries to work with a various datasets. We will introduce you to pandas, an open-source library, and we will use it to load, manipulate, analyze, and visualize cool datasets. Then we will introduce you to another open-source library, scikit-learn, and we will use some of its machine learning algorithms to build smart models and make cool predictions.",
+,Visualizing Data with Python,IBM,"""A picture is worth a thousand words."" We are all familiar with this expression. It especially applies when trying to explain the insights obtained from the analysis of increasingly large datasets. Data visualization plays an essential role in the representation of both small and large-scale data.
+
+One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way.
+
+In this course, you will learn how to leverage a software tool to visualize data that will also enable you to extract information, better understand the data, and make more effective decisions.
+
+When you sign up for this course, you get free access to IBM Watson Studio. In Watson Studio, you’ll be able to start creating your own data science projects and collaborating with other data scientists. Start now and take advantage of everything this platform has to offer!","How to present data using some of the data visualization libraries in Python, including Matplotlib, Seaborn, and Folium
+How to use basic visualization tools, including area plots, histograms, and bar charts
+How to use specialized visualization tools, including pie charts, box plots, scatter plots, and bubble plots
+How to use advanced visualization tools, including waffle charts, word clouds, and Seaborn and regression plots
+How to create maps and visualize geospatial data",
+,Machine Learning with Python: A Practical Introduction,IBM,"This Machine Learning with Python course dives into the basics of machine learning using Python, an approachable and well-known programming language. You'll learn about supervised vs. unsupervised learning, look into how statistical modeling relates to machine learning, and do a comparison of each.
+
+We'll explore many popular algorithms including Classification, Regression, Clustering, and Dimensional Reduction and popular models such as Train/Test Split, Root Mean Squared Error (RMSE), and Random Forests. Along the way, you’ll look at real-life examples of machine learning and see how it affects society in ways you may not have guessed!
+
+Most importantly, you will transform your theoretical knowledge into practical skill using hands-on labs. Get ready to do more learning than your machine!
+
+We'll explore many popular algorithms including Classification, Regression, Clustering, and Dimensional Reduction and popular models such asTrain/Test Split, Root Mean Squared Error and Random Forests.
+
+Mostimportantly, you will transform your theoretical knowledge into practical skill using hands-on labs. Get ready to do more learning than your machine!","The difference between the two main types of machine learning methods: supervised and unsupervised
+Supervised learning algorithms, including classification and regression
+Unsupervised learning algorithms, including Clustering and Dimensionality Reduction
+How statistical modeling relates to machine learning and how to compare them
+Real-life examples of the different ways machine learning affects society","Module 1 - Introduction to Machine Learning
+Applications of Machine Learning
+Supervised vs Unsupervised Learning
+Python libraries suitable for Machine Learning
+
+Module 2 - Regression
+Linear Regression
+Non-linear Regression
+Model evaluation methods
+
+Module 3 - Classification
+K-Nearest Neighbour
+Decision Trees
+Logistic Regression
+Support Vector Machines
+Model Evaluation
+
+Module 4 - Unsupervised Learning
+K-Means Clustering
+Hierarchical Clustering
+Density-Based Clustering
+
+Module 5 - Recommender Systems
+Content-based recommender systems
+Collaborative Filtering"
+,Data Science and Machine Learning Capstone Project,IBM,"Now that you've taken several courses on data science and machine learning, it’s time to put your learning to work on a data problem involving a real life scenario. Employers really care about how well you can apply your knowledge and skills to solve real world problems, and the work you do in this capstone project will make you stand out in the job market.
+
+In this capstone project, you’ll explore data sets in New York’s 311 system, which is used by New Yorkers to report complaints for the non-emergency problems they face. Upon being reported, various agencies in New York get assigned to resolve these problems. The data related to these complaints is available in the New York City Open Dataset. On investigation, one can see that in the last few years the 311 complaints coming to the Department of Housing Preservation and Development in New York City have increased significantly.
+
+Your task is to find out the answers to some of the questions that would help the Department of Housing Preservation and Development in New York City effectively tackle the 311 complaints coming to them. You will need to use the techniques you learned in your previous Python, data science, and machine learning courses, including data ingestion, data exploration, data visualization, feature engineering, probabilistic modeling, model validation, and more.
+
+By the end of this course, you will have used real world data science tools to create a showcase project and demonstrate to employers that you are job ready and a worthy candidate in the field of data science.","Apply your knowledge of data science and machine learning to a real life scenario
+Analyze and visualize data using Python
+Perform a feature engineering exercise using Python
+Build and validate a predictive machine learning model using Python
+Create and share actionable insights to real life data problems",
+,Probability - The Science of Uncertainty and Data,MIT,"The world is full of uncertainty: accidents, storms, unruly financial markets, noisy communications. The world is also full of data. Probabilistic modeling and the related field of statistical inference are the keys to analyzing data and making scientifically sound predictions.
+
+Probabilistic models use the language of mathematics. But instead of relying on the traditional ""theorem-proof"" format, we develop the material in an intuitive -- but still rigorous and mathematically-precise -- manner. Furthermore, while the applications are multiple and evident, we emphasize the basic concepts and methodologies that are universally applicable.
+
+The course covers all of the basic probability concepts, including:
+
+multiple discrete or continuous random variables, expectations, and conditional distributions
+laws of large numbers
+the main tools of Bayesian inference methods
+an introduction to random processes (Poisson processes and Markov chains)
+The contents of this courseare heavily based upon the corresponding MIT class -- Introduction to Probability -- a course that has been offered and continuously refined over more than 50 years. It is a challenging class but will enable you to apply the tools of probability theory to real-world applications or to your research.","Unit 1: Probability models and axioms
+
+Probability models and axioms
+Mathematical background: Sets; sequences, limits, and series; (un)countable sets.
+Unit 2: Conditioning and independence
+
+Conditioning and Bayes' rule
+Independence
+Unit 3: Counting
+
+Counting
+Unit 4: Discrete random variables
+
+Probability mass functions and expectations
+Variance; Conditioning on an event; Multiple random variables
+Conditioning on a random variable; Independence of random variables
+Unit 5: Continuous random variables
+
+Probability density functions
+Conditioning on an event; Multiple random variables
+Conditioning on a random variable; Independence; Bayes' rule
+Unit 6: Further topics on random variables
+
+Derived distributions
+Sums of independent random variables; Covariance and correlation
+Conditional expectation and variance revisited; Sum of a random number of independent random variables
+Unit 7: Bayesian inference
+
+Introduction to Bayesian inference
+Linear models with normal noise
+Least mean squares (LMS) estimation
+Linear least mean squares (LLMS) estimation
+Unit 8: Limit theorems and classical statistics
+
+Inequalities, convergence, and the Weak Law of Large Numbers
+The Central Limit Theorem (CLT)
+An introduction to classical statistics
+Unit 9: Bernoulli and Poisson processes
+
+The Bernoulli process
+The Poisson process
+More on the Poisson process
+Unit 10 (Optional): Markov chains
+
+Finite-state Markov chains
+Steady-state behavior of Markov chains
+Absorption probabilities and expected time to absorption","The basic structure and elements of probabilistic models
+Random variables, their distributions, means, and variances
+Probabilistic calculations
+Inference methods
+Laws of large numbers and their applications
+Random processes"
+,Fundamentals of Statistics,MIT,"Statistics is the science of turning data into insights and ultimately decisions. Behind recent advances in machine learning, data science and artificial intelligence are fundamental statistical principles. The purpose of this class is to develop and understand these core ideas on firm mathematical grounds starting from the construction of estimators and tests, as well as an analysis of their asymptotic performance.
+
+After developing basic tools to handle parametric models, we will explore how to answer more advanced questions, such as the following:
+
+How suitable is a given model for a particular dataset?
+How to select variables in linear regression?
+How to model nonlinear phenomena?
+How to visualize high-dimensional data?
+Taking this class will allow you to expand your statistical knowledge to not only include a list of methods, but also the mathematical principles that link them together, equipping you with the tools you need to develop new ones.","Construct estimators using method of moments and maximum likelihood, and decide how to choose between them
+Quantify uncertainty using confidence intervals and hypothesis testing
+Choose between different models using goodness of fit test
+Make prediction using linear, nonlinear and generalized linear models
+Perform dimension reduction using principal component analysis (PCA)",
+,Machine Learning with Python: from Linear Models to Deep Learning,MIT,"Machine learning methods are commonly used across engineering and sciences, from computer systems to physics. Moreover, commercial sites such as search engines, recommender systems (e.g., Netflix, Amazon), advertisers, and financial institutions employ machine learning algorithms for content recommendation, predicting customer behavior, compliance, or risk.
+
+As a discipline, machine learning tries to design and understand computer programs that learn from experience for the purpose of prediction or control.
+
+In this course, students will learn about principles and algorithms for turning training data into effective automated predictions. We will cover:
+
+Representation, over-fitting, regularization, generalization, VC dimension;
+Clustering, classification, recommender problems, probabilistic modeling, reinforcement learning;
+On-line algorithms, support vector machines, and neural networks/deep learning.
+Students will implement and experiment with the algorithms in several Python projects designed for different practical applications.","Understand principles behind machine learning problems such as classification, regression, clustering, and reinforcement learning
+Implement and analyze models such as linear models, kernel machines, neural networks, and graphical models
+Choose suitable models for different applications
+Implement and organize machine learning projects, from training, validation, parameter tuning, to feature engineering.","Lectures :
+
+Introduction
+Linear classifiers, separability, perceptron algorithm
+Maximum margin hyperplane, loss, regularization
+Stochastic gradient descent, over-fitting, generalization
+Linear regression
+Recommender problems, collaborative filtering
+Non-linear classification, kernels
+Learning features, Neural networks
+Deep learning, back propagation
+Recurrent neural networks
+Recurrent neural networks
+Generalization, complexity, VC-dimension
+Unsupervised learning: clustering
+Generative models, mixtures
+Mixtures and the EM algorithm
+Learning to control: Reinforcement learning
+Reinforcement learning continued
+Applications: Natural Language Processing
+Projects :
+
+Automatic Review Analyzer
+Digit Recognition with Neural Networks
+Reinforcement Learning"
+,Capstone Exam in Statistics and Data Science,MIT,This capstone exam is the final part of the MITx MicroMasters Program in Statistics and Data Science. Complete the four courses in this program and take this virtually-proctored exam to earn your MicroMasters credential and demonstrate your proficiency in data science or accelerate your path towards an MIT PhD or a Master's at other universities.,,
+,Data Analysis in Social Science—Assessing Your Knowledge,MIT,"This course consists of an assessment that tests your knowledge on the course content from 14.310x - Data Analysis for Social Scientists , a statistics and data analysis course that will introduce you to the essential notions of probability and statistics. It will cover techniques in modern data analysis: estimation, regression and econometrics, prediction, experimental design, randomized control trials (and A/B testing), machine learning, and data visualization. It will illustrate these concepts with applications drawn from real world examples and frontier research. Finally, it will provide instruction for how to use the statistical package R and opportunities for students to perform self-directed empirical analyses.
+
+This assessment course should only be taken by learners who have completed and passed 14.310x - Data Analysis for Social Scientists and intend to pursue the MicroMasters credential in Statistics and Data Science. To get credit in this MicroMasters program:
+
+Enroll in both this assessment course and the content course 14.310x - Data Analysis for Social Scientists (Note: There is no additional fee to enroll in the content course),
+Complete the content course 14.310x with a passing grade,
+Come back to this course and take the exam to earn your verified certificate that will count toward the MicroMasters credential in Statistics and Data Science.","You will be tested on your knowledge in the following areas:
+
+Intuition behind probability and statistical analysis
+How to summarize and describe data
+A basic understanding of various methods of evaluating social programs
+How to present results in a compelling and truthful way
+Skills and tools for using R for data analysis
+These are all taught in the content course 14.310x - Data Analysis for Social Scientists",
+,Data Analysis: Statistical Modeling and Computation in Applications,MIT,"Data science requires multi-disciplinary skills ranging from mathematics, statistics, machine learning, problem solving to programming, visualization, and communication skills. In this course, learners will combine these foundational and practical skills with domain knowledge to ask and answer questions using real data.
+
+This course will start with a review of common statistical and computational tools such as hypothesis testing, regression, and gradient descent methods. Then, learners will study common models and methods to analyze specific types of data in four different domain areas:
+
+Epigenetic Codes and Data Visualization
+Criminal Networks and Network Analysis
+Prices, Economics and Time Series
+Environmental Data and Spatial Statistics
+Learners will be guided to analyze a real data set from each of these areas of focus, and present their findings in written reports. They will also discuss relevant and practical issues with peers.","Model, form hypotheses, perform statistical analysis on real data
+Use dimension reduction techniques such as principal component analysis to visualize high-dimensional data and apply this to genomics data
+Analyze networks (e.g. social networks) and use centrality measures to describe the importance of nodes, and apply this to criminal networks
+Model time series using moving average, autoregressive and other stationary models for forecasting with financial data
+Use Gaussian processes to model environmental data and make predictions
+Communicate analysis results effectively",
+,Python for Data Science,UC San Diego,"In the information age, data is all around us. Within this data are answers to compelling questions across many societal domains (politics, business, science, etc.). But if you had access to a large dataset, would you be able to find the answers you seek?
+
+This course, part of the Data Science MicroMasters program, will introduce you to a collection of powerful, open-source, tools needed to analyze data and to conduct data science. Specifically, you'll learn how to use:
+
+python
+jupyter notebooks
+pandas
+numpy
+matplotlib
+git
+and many other tools.
+You will learn these tools all within the context of solving compelling data science problems.
+
+After completing this course, you'll be able to find answers within large datasets by using python tools to import data, explore it, analyze it, learn from it, visualize it, and ultimately generate easily sharable reports.
+
+By learning these skills, you'll also become a member of a world-wide community which seeks to build data science tools, explore public datasets, and discuss evidence-based findings. Last but not least, this course will provide you with the foundation you need to succeed in later courses in the Data Science MicroMasters program.","Basic process of data science
+Python and Jupyter notebooks
+An applied understanding of how to manipulate and analyze uncurated datasets
+Basic statistical analysis and machine learning methods
+How to effectively visualize results",
+,Probability and Statistics in Data Science using Python,UC San Diego,"The job of a data scientist is to glean knowledge from complex and noisy datasets.
+
+Reasoning about uncertainty is inherent in the analysis of noisy data. Probability and Statistics provide the mathematical foundation for such reasoning.
+
+In this course, part of the Data Science MicroMasters program, you will learn the foundations of probability and statistics. You will learn both the mathematical theory, and get a hands-on experience of applying this theory to actual data using Jupyter notebooks.
+
+Concepts covered included: random variables, dependence, correlation, regression, PCA, entropy and MDL.","The mathematical foundations for machine learning
+Statistics literacy: understand the meaning of statements such as ""at a 99% confidence level""",
+,Machine Learning Fundamentals,UC San Diego,"Do you want to build systems that learn from experience? Or exploit data to create simple predictive models of the world?
+
+In this course, part of the Data Science MicroMasters program, you will learn a variety of supervised and unsupervised learning algorithms, and the theory behind those algorithms.
+
+Using real-world case studies, you will learn how to classify images, identify salient topics in a corpus of documents, partition people according to personality profiles, and automatically capture the semantic structure of words and use it to categorize documents.
+
+Armed with the knowledge from this course, you will be able to analyze many different types of data and to build descriptive and predictive models.
+
+All programming examples and assignments will be in Python, using Jupyter notebooks.","Classification, regression, and conditional probability estimation
+Generative and discriminative models
+Linear models and extensions to nonlinearity using kernel methods
+Ensemble methods: boosting, bagging, random forests
+Representation learning: clustering, dimensionality reduction, autoencoders, deep nets",
+,Big Data Analytics Using Spark,UC San Diego,"In data science, data is called ""big"" if it cannot fit into the memory of a single standard laptop or workstation.
+
+The analysis of big datasets requires using a cluster of tens, hundreds or thousands of computers. Effectively using such clusters requires the use of distributed files systems, such as the Hadoop Distributed File System (HDFS) and corresponding computational models, such as Hadoop, MapReduce and Spark.
+
+In this course, part of the Data Science MicroMasters program, you will learn what the bottlenecks are in massive parallel computation and how to use spark to minimize these bottlenecks.
+
+You will learn how to perform supervised an unsupervised machine learning on massive datasets using the Machine Learning Library (MLlib).
+
+In this course, as in the other ones in this MicroMasters program, you will gain hands-on experience using PySpark within the Jupyter notebooks environment.","Programming Spark using Pyspark
+Identifying the computational tradeoffs in a Spark application
+Performing data loading and cleaning using Spark and Parquet
+Modeling data through statistical and machine learning methods",
+,Data Science: Computational Thinking with Python,Berkeley,"We live in an era of unprecedented access to data. Understanding how to organize and leverage the vast amounts of information at our disposal are critical skills that allow us to infer upon the world and make informed decisions. This course will introduce you to such skills.
+
+To work with large amounts of data, you will need to harness the power of computation through programming. This course teaches you basic programming skills for manipulating data. You will learn how to use Python to organize and manipulate data in tables, and to visualize data effectively. No prior experience with programming or Python is needed, nor is any statistics background necessary.
+
+The examples given in the course involve real world data from diverse settings. Not all data is numerical – you will work with different types of data from a variety of domains. Though the term “data science” is relatively new, the fundamental ideas of data science are not. The course includes powerful examples that span the centuries from the Victorian era to the present day.
+
+This course emphasizes learning through doing: you will work on large real-world data sets through interactive assignments to apply the skills you learn. Throughout, the underlying thread is that data science is a way of thinking, not just an assortment of methods. You will also hone your interpretation and communication skills, which are essential skills for data scientists.","Basics of the Python programming language, and how to use it as a tool for data analysis
+Tools widely used by industry and academic data scientists, such as Jupyter Notebooks
+How to use computation to help your data tell a story
+Fundamental principles and methods of visualization",
+,Statistical Thinking for Data Science and Analytics,Columbia,"This statistics and data analysis course will pave the statistical foundation for our discussion on data science.
+
+You will learn how data scientists exercise statistical thinking in designing data collection, derive insights from visualizing data, obtain supporting evidence for data-based decisions and construct models for predicting future trends from data.","Week 1 – Introduction to Data Science
+
+Week 2 – Statistical Thinking
+
+Examples of Statistical Thinking
+Numerical Data, Summary Statistics
+From Population to Sampled Data
+Different Types of Biases
+Introduction to Probability
+Introduction to Statistical Inference
+Week 3 – Statistical Thinking 2
+
+Association and Dependence
+Association and Causation
+Conditional Probability and Bayes Rule
+Simpsons Paradox, Confounding
+Introduction to Linear Regression
+Special Regression Models
+Week 4 – Exploratory Data Analysis and Visualization
+
+Goals of statistical graphics and data visualization
+Graphs of Data
+Graphs of Fitted Models
+Graphs to Check Fitted Models
+What makes a good graph?
+Principles of graphics
+Week 5 – Introduction to Bayesian Modeling
+
+Bayesian inference: combining models and data in a forecasting problem
+Bayesian hierarchical modeling for studying public opinion
+Bayesian modeling for Big Data","Data collection, analysis and inference
+Data classification to identify key traits and customers
+Conditional Probability-How to judge the probability of an event, based on certain conditions
+How to use Bayesian modeling and inference for forecasting and studying public opinion
+Basics of Linear Regression
+Data Visualization: How to create use data to create compelling graphics"
+,Introduction to Computational Thinking and Data Science,MIT,"6.00.2x will teach you how to use computation to accomplish a variety of goals and provides you with a brief introduction to a variety of topics in computational problem solving . This course is aimed at students with some prior programming experience in Python and a rudimentary knowledge of computational complexity. You will spend a considerable amount of time writing programs to implement the concepts covered in the course. For example, you will write a program that will simulate a robot vacuum cleaning a room or will model the population dynamics of viruses replicating and drug treatments in a patient's body.","Advanced programming in Python 3
+Knapsack problem, Graphs and graph optimization
+Dynamic programming
+Plotting with the pylab package
+Random walks
+Probability, Distributions
+Monte Carlo simulations
+Curve fitting
+Statistical fallacies","Plotting with the pylab package
+Stochastic programming and statistical thinking
+Monte Carlo simulations"
+,Machine Learning for Data Science and Analytics,Columbia,"Machine Learning is a growing field that is used when searching the web, placing ads, credit scoring, stock trading and for many other applications.
+
+This data science course is an introduction to machine learning and algorithms. You will develop a basic understanding of the principles of machine learning and derive practical solutions using predictive analytics. We will also examine why algorithms play an essential role in Big Data analysis.","What machine learning is and how it is related to statistics and data analysis
+How machine learning uses computer algorithms to search for patterns in data
+How to use data patterns to make decisions and predictions with real-world examples from healthcare involving genomics and preterm birth
+How to uncover hidden themes in large collections of documents using topic modeling
+How to prepare data, deal with missing data and create custom data analysis solutions for different industries
+Basic and frequently used algorithmic techniques including sorting, searching, greedy algorithms and dynamic programming",
