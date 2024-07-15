@@ -59,13 +59,76 @@ Machine Learning Frameworks:
 
 Heatmaps for multiple features were listed. 
 
+Used the Mann-Whitney U-test to determine which features were correlated with a higher salary, determine it to be to 4 features ["Q17", "Q19", "Q23", "Q33"]
+
+Performed bootstrapping to convery the data into a normal distribution. Determine which model the data fits.
+
+**Part 2: Redesign the MAster's Program**
+
+**Part 2-1: Examining Coursera and EdX**
+
+Courses info was manually scraped, data was cleaned: html tags removed, character codes, nans were filled as blanks, lowercases, removed puncuations, remove stop words, count to see the most common words, 2 most common words used together using nltk ngrams, visualize using WordCloud
+
+![image](https://github.com/user-attachments/assets/36016c60-abb5-4adc-8da3-664e4e876b48)
 
 
+**Part 2-2: Clustering COurses**
 
+Two datasets: Universities and Online courses that were both manually scraped,covert both datasets into the same format, data was preprocessed for Lowercasing, removing punctzation and word counting. Tokenization and Stop Word removal Words are first separated in tokens and then the stop words from a list of most common english words are removed. Later it was considered to remove words that are common in every document such as data. However, it was determined that the words would distort the analysis. For example the word data was very frequent but when it would be removed the cluster regarding databases etc. would be lost combined with the insights taken from this. Vectorization using TF-IDF Vectorizer Representing words in the form of their term frequency and inverse document frequency. (Overall appearance and number of documents they appeared in).
 
+CLustering: First the dimensions of the embeddings are reduced. Therfor the UMAP algorithm is used.
 
+Visuzlization: T-SNE is required to enable the low dimensional visualization
 
+![image](https://github.com/user-attachments/assets/125f6658-f25b-4748-ae9c-337554584baa)
 
+The clustering based on the syllabi showes two big clusters. Basically the algorithm separates the online and the university courses to some extent but fails to establish subclusters.
+
+For this reason the clustering is repeated based on the course descriptions rather than the syllabi.
+
+![image](https://github.com/user-attachments/assets/c0dc6e18-3a29-4608-997d-eaf7a26a99a1)
+
+This shows much better results and 8 distinguishable clusters as well as a cluster containing outliers are created. The clusters are all analyzed in the following Please note that rerunning the code changes the numbers of the clusters with the content reamaining the same. Therefore the comments will be not representing the actual cluster after rerunning.
+
+CLusters were made for each of them (8), to showcase the frequent words and skills used. 
+
+**Part 3: Recommender System**
+
+Generated random data to represent a random student choosing a random course, then will recommended an appropriate course.
+
+This function will generate a dataset with features associated to courses. 
+
+The dataset will have the following columns:
+  - course_id (String): Unique identifier for the course
+  - course_topic (Integer): An integer value representing the topic for the course, value is between 1 and 5, 
+                            indicating that there are 5 unique topics. Each course can only have 1 topic.
+  - professor_id (String): Unique identifier for the professor
+  - student_id (String): Unique identifier for the student
+  - course_rating (Integer): A value between 0 and 5
+
+params:
+  n_courses (Integer): The number of courses in the dataset
+  n_topics (Integer): The number of course topics to be chosen from
+  n_professors (Integer): Number of professors to be generated
+  n_students (Integer): Number of students for the dataset
+  size (Integer): The number of rows in the dataset
+
+**Recommender System - Collaborative Filtering:**
+
+**Model BAsed:**
+
+Generate predictions using matrix projections, return predictions of top three courses
+
+**Memory based using User-User**
+Find similarity between users by assessing the rating pattern of two users. Using KNN with Means and calculate the rmse.
+
+User Based: Here, we look for the users who have rated various items in the same way and then find the rating of the missing item with the help of these users.
+
+**Item to Item Collaborative FIltering**
+
+Used if more users than items. Looks for the similar items, which user X has already rated and recommends the most similar items. Here similarity means how people treat two items in terms of ratings. If two items get same kind of ratings with the same users then they are similar.
+
+Item Based: Here, we explore the relationship between the pair of items (the user who bought Y, also bought Z). We find the missing rating with the help of the ratings given to the other items by the user.
 
 
 
