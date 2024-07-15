@@ -34,3 +34,39 @@ Used WordCloud to help visuaize the most common words.
 These are also plotted for each job category to see if there are major differences between them.
 
 **Part 1-2: Kaggle Webscraping**
+
+Using the Kaggle Dataet provided for Assignment 1 and 2, we can examine many key features of Data and ML jobs. Firstly, the jobs weere cleaned of to only filter through people in Canada and United Sates, salary distributions were bar plooted for each job description with the salry being bucketed from 0-14, heatmaps were created to show the relationship between jobs, skills, and tools. 
+
+Programming Languages:
+
+![image](https://github.com/user-attachments/assets/b11b89ab-9e87-4b61-87c7-6fce371809e4)
+
+IDEs:
+
+![image](https://github.com/user-attachments/assets/aa27b574-0bb7-40d3-ada7-b07c486a95b2)
+
+Notebooks:
+
+![image](https://github.com/user-attachments/assets/ce4641c8-9757-4a31-bc69-63aa081e228c)
+
+Visualizion Libraries:
+
+![image](https://github.com/user-attachments/assets/19ae05d5-3628-48d8-a185-15e6fdd33750)
+
+Machine Learning Frameworks:
+
+![image](https://github.com/user-attachments/assets/c6b94c30-1e0f-48dc-8425-4d3454bdabc5)
+
+Heatmaps for multiple features were listed. 
+
+
+
+
+
+
+
+
+
+
+
+
